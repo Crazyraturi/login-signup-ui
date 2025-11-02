@@ -34,4 +34,4 @@ Follow the steps below to run this project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/login-signup-ui.git
+https://github.com/Crazyraturi/login-signup-ui.git
